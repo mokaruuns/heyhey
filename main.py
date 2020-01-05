@@ -9,6 +9,6 @@ from day4 import day4_main
 from hack import hack
 
 #day2_main()
-#day3_main()
+day3_main()
 #day4_main()
 hack()
