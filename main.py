@@ -6,6 +6,8 @@ from day5 import day5_main
 from day6 import day6_main
 from day7 import day7_main
 from day8 import day8_main
+from day9 import day9_main
+
 
 
 
@@ -16,4 +18,4 @@ from day8 import day8_main
 # day5_main()
 # day6_main()
 # day7_main()
-day8_main()
+day9_main()
