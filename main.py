@@ -8,14 +8,8 @@ from day7 import day7_main
 from day8 import day8_main
 from day9 import day9_main
 from day10 import day10_main
+from day11 import day11_main
+from day12 import day12_main
 
 
-
-# day2_main()
-# day3_main()
-# day4_main()
-# hack()
-# day5_main()
-# day6_main()
-# day7_main()
-day10_main()
+day12_main()
